@@ -1,0 +1,15 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRICTNT33Nsc1V5HlJj10JA7cj9JTflgXfySQ&usqp=CAU);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+p{
+    color: blanchedalmond;
+}
+li{
+    color: bisque;
+}
+h1{
+    color: blueviolet;
+}
